@@ -20,3 +20,5 @@
                         The fact that the variance is low means that the minimum vale is close to average.
                         Although the averages of accuracy are same, we trust the model that has the minimum vaule close to average.
       4) All things considered, I pick up the UnetPlusPlus & efficientnet-b5 model. 
+
+![raw1](https://user-images.githubusercontent.com/78337318/115361176-474ca280-a1fb-11eb-8e1a-1e293a785c44.png)
